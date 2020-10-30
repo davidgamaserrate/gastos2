@@ -1,0 +1,74 @@
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+
+
+#menu ul{
+    
+    margin: 0;
+    background-color: #17B4BD;
+    list-style: none;
+    
+}
+
+#menu ul li{
+
+    
+    display: inline;
+    
+}
+
+#menu ul li a{
+    padding: 16px 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#menu ul li a:hover{
+    color: #202F36;
+}
+
+#saldo_geral{
+    background-color: #202F36;
+    width: 20%;
+    margin-top: 10px;
+    height: 0%; 
+    padding-bottom: 13%; 
+    margin: 150px;
+    text-align: center;
+ }
+
+ #saldo_geral ul{
+
+    
+    background-color: # FFF;
+    list-style: none;
+    width: 80%;
+    
+    /* display: inline-block;
+    vertical-align: middle;
+    width: 80%;
+    background: #fff;
+    color: #FFF; */
+
+ } 
+
+ #saldo_geral ul li{
+    display:block;
+    
+ }
+
+ #saldo_geral ul li{
+    display:block;
+    text-decoration: none;
+ }
+#logo-menu{
+    
+    list-style: none;
+    width: 80%;
+}
